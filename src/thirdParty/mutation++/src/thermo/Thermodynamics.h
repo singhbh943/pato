@@ -38,6 +38,7 @@
 #include "ThermoDB.h"
 #include "MultiPhaseEquilSolver.h"
 
+#include <cassert>
 #include <Eigen/Dense>
 
 namespace Mutation {
