@@ -195,3 +195,15 @@ GPATH
 GRTAGS
 GTAGS
 TAGS
+# Generated/copied Mutation++ runtime data
+# These files may be populated during the integrated PATO/SU2-NEMO setup.
+# Keep existing tracked PATO Mutation++ databases visible to Git.
+data/ThermoTransportChemistry/mutation++/mechanisms/Mars_19_Park.xml
+data/ThermoTransportChemistry/mutation++/mechanisms/air11_Park.xml
+data/ThermoTransportChemistry/mutation++/mechanisms/air5_Park.xml
+data/ThermoTransportChemistry/mutation++/mixtures/CO2_8.xml
+data/ThermoTransportChemistry/mutation++/mixtures/Mars_19.xml
+data/ThermoTransportChemistry/mutation++/mixtures/air_11.xml
+data/ThermoTransportChemistry/mutation++/mixtures/air_5.xml
+data/ThermoTransportChemistry/mutation++/mixtures/tacot-air_35.xml
+data/ThermoTransportChemistry/mutation++/thermo/nasa9_new.dat
